@@ -1,4 +1,4 @@
-# bot-wa by Ahmad
+# RIDHI-BOT
 
 # Cara install bot:
 #
