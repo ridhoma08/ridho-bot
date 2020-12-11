@@ -1,4 +1,4 @@
-# RIDHI-BOT
+# RIDHO-BOT
 
 # Cara install bot:
 #
