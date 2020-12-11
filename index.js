@@ -12,12 +12,12 @@ const menu = require("./lib/menu.js");
 const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 //
-const BotName = 'BOT Ahmad'; // Nama Bot Whatsapp
-const instagramlu = 'gk ada'; // Nama Instagramlu cok
-const whatsapplu = '083865614902'; // Nomor whatsapplu cok
+const BotName = 'RIDHOBOT'; // Nama Bot Whatsapp
+const instagramlu = 'https://instagram.com/ridhoma_08?igshid=5467f16bbvu1'; // Nama Instagramlu cok
+const whatsapplu = '08998839509'; // Nomor whatsapplu cok
 const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
-const grupch1 = 'gk ada'; // OFFICIAL GRUP LU 1
-const grupch2 = 'gk ada'; // OFFICIAL GRUP LU 2
+const grupch1 = 'https://chat.whatsapp.com/CfG9S2OjmoTLZYxv8bLg0S'; // OFFICIAL GRUP LU 1
+const grupch2 = 'https://chat.whatsapp.com/CfG9S2OjmoTLZYxv8bLg0S'; // OFFICIAL GRUP LU 2
 //
 const
 {
