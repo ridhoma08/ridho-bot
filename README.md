@@ -6,9 +6,9 @@
 
 #>pkg install git
 
-#>git clone https://github.com/Ahmad-script/bot-wa
+#>git clone https://github.com/ridhoma08/ridho-bot
 
-#>cd bot-wa
+#>cd ridho-bot
 
 #>pkg install wget
 
