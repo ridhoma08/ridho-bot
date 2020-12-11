@@ -1,5 +1,5 @@
 {
-  "name": "BotAhmad",
+  "name": "RidhoBot",
   "version": "1.0.0",
   "description": "bot whatsapp lewat hp doang",
   "main": "index.js",
@@ -29,15 +29,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ahmad-script/bot-wa"
+    "url": "git+https://github.com/ridhoma08/ridho-bot"
   },
   "keywords": [
     "k"
   ],
-  "author": "Ahmad",
+  "author": "RidhoMaulanaAbdi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ahmad-script/bot-wa/issues"
+    "url": "https://github.com/ridhoma08/ridho-bot/issues"
   },
-  "homepage": "https://github.com/Ahmad-script/bot-wa#readme"
+  "homepage": "https://github.com/ridhoma08/ridho-bot#readme"
 }
